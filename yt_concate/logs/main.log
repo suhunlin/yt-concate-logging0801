@@ -1,0 +1,2 @@
+DEBUG:main:2022-08-01 14:45:09,549:----start main----
+DEBUG:main:2022-08-01 14:45:09,551:inputs:{'channel_id': 'UCKSVUHI9rbbkXhvAXK-2uxA', 'search_word': 'happy', 'limit': '45'}

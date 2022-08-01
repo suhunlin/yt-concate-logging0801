@@ -1,0 +1,4 @@
+DEBUG:run_command_line:2022-08-01 14:45:09,550:command_line:{'search_word': 'happy', 'limit': '45'}
+DEBUG:run_command_line:2022-08-01 14:45:09,550:command_line:{'search_word': 'happy', 'limit': '45'}
+DEBUG:get_video_list_filepath:2022-08-01 14:45:09,551:video_list_filepath:downloads/UCKSVUHI9rbbkXhvAXK-2uxA.txt
+DEBUG:get_video_list_filepath:2022-08-01 14:45:09,551:video_list_filepath:downloads/UCKSVUHI9rbbkXhvAXK-2uxA.txt
